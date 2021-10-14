@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+
+body {
+    font-family: 'Work Sans', sans-serif;
+    color: #090A0A;
+    margin: 0 80px;
+}
+
+.h1, h2, h3, h4, h5, h6, p {
+    margin: 0;
+}
+
+.header {
+    width: 100%;
+}
+
+.container {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.container--black {
+    background-color: #292F32;
+}
+
+.nav {
+    width: 100%;
+    text-align: right;
+    font-size: 20px;
+    line-height: 29px;
+    padding-top: 80px;
+}
+
+.nav__item__black {
+    margin-left: 24px;
+    color: #090A0A;
+    text-decoration: none;
+}
+
+.nav__item__grey {
+    margin-left: 24px;
+    color: #939596;
+    text-decoration: none;
+}
+
+.heading1 {
+    font-size: 36px;
+    line-height: 50px;
+    margin-bottom: 40px;
+}
+
+.heading2 {
+    font-size: 28px;
+    padding-bottom: 24px;
+    color: #FCFCFC;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.paragraph {
+    color: #FCFCFC;
+    padding-bottom: 30px;
+}
+
+.projects {
+    max-width: 100%;
+}
+
+.project {
+    width: 100%;
+}
+
+.heading4 {
+    font-size: 20px;
+    line-height: 29px;
+    
+}
+
+.heading5 {
+    font-size: 17px;
+    color: #7C7E80;
+    line-height: 20px;
+}
+
+.socialmedia {
+    margin-bottom: 42px;
+    margin-top: 60px;
+}
+
+.personal {
+    padding: 50px;
+}
+
+.personalphoto {
+    margin-top: 106px;
+    margin-bottom: 44px;
+    width: 100%;
+}
+
+
+
